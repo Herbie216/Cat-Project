@@ -1,3 +1,4 @@
+// components/Info.js
 import React from 'react'
 
 const Info = () => {
@@ -6,4 +7,4 @@ const Info = () => {
   )
 }
 
-export default Info
+ export default Info
